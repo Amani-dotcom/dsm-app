@@ -1,0 +1,19 @@
+
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Building A",
+        "cluster": "Always-On",
+        "co2_saved": 120,
+        "energy_kwh": 450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.4244, 25.3217]
+      }
+    }
+  ]
+}
